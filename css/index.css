@@ -1,0 +1,73 @@
+/* cabeçalho */
+.caixa {
+    margin-bottom: 0;
+}
+/* sobre */
+.banner {
+    width: 100%;
+}
+.sobre {
+    width: 960px;
+    margin: 0 auto;
+}
+.texto-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 1em auto;
+    clear: left;
+}
+.prato {
+    width: 175px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+.index-principal p {    
+    margin-bottom: 1em;
+}
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+.missao {
+    font-size: 20px;
+    font-style: italic;    
+
+}
+.index-principal span {
+    color: red;
+}
+/* Estabelecimento */
+.estabelecimento{
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+.mapa {
+    width: 100%;
+}
+
+
+/* benefícios */
+.beneficios{
+    width: 960px;
+    margin: 0 auto;
+}
+.index-principal ul {
+    display: inline-block;
+    margin-right: 15%;
+    vertical-align: top;
+    font-style: italic;
+}
+.conteudo-beneficios ul {
+   /*  width: 40%; */
+}
+.imagem-beneficios {
+    width: 50%;
+}
+.video {
+    width: 100%;
+    text-align: center;
+    margin: 1em auto;
+}

@@ -1,0 +1,67 @@
+/* principal */
+.contato {
+    width: 940px;
+    margin: 0 auto;
+}
+/* Dados pessoais e contato */
+.contato form {
+    margin: 40px 0;
+}
+.contato form label, .contato form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.input-contato {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+/* preferencia de horário */
+.contato select {
+    width: 10%;
+    font-size: 16px;
+    padding: 5px;
+}
+/* Gostaria de receber nossas novidades por email? */
+#checkbox{
+    margin: 20px 0;
+}
+
+/* Botão submit */
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background: rgb(168, 43, 43);
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: all 1s;
+}
+.enviar:hover {
+    background: rgb(173, 62, 62);;
+    transform: scale(1.2);
+}
+/* tabela */
+table {
+    margin: 20px 0 40px;
+    width: 40%;
+}
+thead {
+    
+    background: #555;
+    color: aliceblue;
+    font-weight: bold;
+}
+td,th {
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    padding: 15px 8px;
+}
+table p {
+    margin: 2px;
+}

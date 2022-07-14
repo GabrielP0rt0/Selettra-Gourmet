@@ -1,0 +1,48 @@
+/* Definindo fonte */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+/* cabeçalho */
+header {
+    background: url("../img/bg.jpg");    
+}
+.caixa{
+    margin-bottom: 20px;
+}
+.imagem-cabecalho{
+    width: 25%;
+}
+.caixa nav {
+    position: absolute;
+    right: 0;
+    top: 80px;
+}
+.caixa nav li {
+    display: inline;
+    margin-right: 15px;
+}
+.caixa nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.caixa nav a:hover {
+    color: rgb(168, 43, 43);
+    text-decoration: underline;
+}
+/* rodapé */
+footer{    
+    text-align: center;
+    background: url("../img/bg.jpg");
+    padding: 40px;    
+}
+.imagem-rodape{
+    width: 10%;
+}
+.copyright {    
+    font-size: 13px;
+    margin-top: 12px;
+}

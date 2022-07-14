@@ -1,0 +1,30 @@
+.produtos{
+    width: 940px;
+    margin: 20px auto;
+}
+.produtos h2 {
+    font-weight: bold;
+    font-size: 30px;
+}
+.produtos li {
+    display: inline-block;
+    width: 30%;
+    margin: 0 1.5%;
+    text-align: center;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.produtos li:hover{
+    border-color: rgb(168, 43, 43);;
+}
+.produtos li:hover h2{
+    font-size: 34px;
+}
+.produtos li:active{
+    border-color: green;
+}
+.produtos p{
+    font-size: 16px;
+}
