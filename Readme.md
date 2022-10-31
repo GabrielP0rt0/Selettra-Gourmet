@@ -2,7 +2,7 @@
  
 <div align="center">
 
-  <img scr="./img/GourmetSelettra.png" />
+  <img scr="./img/GMST.png"/>
   <!--<a href="https://github.com/GabrielP0rt0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielP0rt0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
