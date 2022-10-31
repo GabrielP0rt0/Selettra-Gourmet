@@ -1,8 +1,9 @@
 # Oficina Selettra Gourmet
  
 <div align="center">
-
-  <img scr="./img/GMST.png"/>
+  <a style="text-decoration:none;" href="https://gportol-1.github.io/1%20-%20GourmetSelettra/IndexHome.html">
+     <img heigt="190em" scr="https://discord.com/channels/735961715262488639/1013794311621574706/1036741532331544717"/>
+  </a>
   <!--<a href="https://github.com/GabrielP0rt0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielP0rt0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
 </div>
@@ -19,7 +20,7 @@
   
   ### Sobre o projeto
 
-<div> <a style="text-decoration:none;" href="https://gportol-1.github.io/1%20-%20GourmetSelettra/IndexHome.html">
+<div> 
   O projeto ocorreu durante uma oficina na empresa Selettra Automação e Robótica com o objetivo de ensino aos interessados a respeito de linguagens de programação pertencentes ao Frontend (HTML e CSS).
  
-</div>  </a>
+</div>  
