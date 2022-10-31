@@ -2,7 +2,6 @@
  
 <div align="center">
   
-     <img height="190em" scr="https://discord.com/channels/@me/664277413001297940/1036742527686017084" />
 
   <!--<a href="https://github.com/GabrielP0rt0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielP0rt0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
