@@ -24,3 +24,8 @@
   <a style="text-decoration:none;" href="https://gportol-1.github.io/1%20-%20GourmetSelettra/IndexHome.html"> Link para visualização </a>
  
 </div>  
+
+ ## Autor
+ <div>
+  Projeto feito por Gabriel Luiz Porto com o auxilio do Senhor <a href="https://github.com/Hobbies-Prof-Bento"> Clístenes, vulgo Bento </a>
+</div>
